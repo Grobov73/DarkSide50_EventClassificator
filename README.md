@@ -1,10 +1,10 @@
 # DarkSide50_EventClassificator
 
-#E-mail: alexey.grobov@dgmail.com
+#E-mail: alexey.grobov@gmail.com
 
-#This is a first version of Event Classifier for DarkSide-50 experiment. You should have DarkSide SLAD files to run it.
+## This is a first version of Event Classifier for DarkSide-50 experiment. You should have DarkSide SLAD files to run it.
 
-#HOW TO RUN MLP CLASSIFIER
+## HOW TO RUN MLP CLASSIFIER
 #1) Make sure you have following python packages installed: numpy, scikit-learn, pandas
 #2) Run the script in the terminal: bash run_steps_MLP.sh 1 1 1 1  
 #first argument - NR_Flag, second - ER Flag, third - UAr Flag, forth - python script flag 
