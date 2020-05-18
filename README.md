@@ -1,4 +1,4 @@
-# DarkSide50_EventClassificator
+# DarkSide50_EventClassifier
 
 #E-mail: alexey.grobov@gmail.com
 
